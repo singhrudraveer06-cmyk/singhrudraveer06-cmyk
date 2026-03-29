@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rudraveer Singh 
 
-<!--
-**singhrudraveer06-cmyk/singhrudraveer06-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student at VIT Bhopal University  
+Interested in Python, AI, and Software Development  
 
-Here are some ideas to get you started:
+## About Me
+I am currently learning programming and exploring Artificial Intelligence. I enjoy building projects and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python  
+- Basic AI/ML  
+- GitHub  
+
+## Goals
+- Improve coding skills  
+- Build real-world projects  
+- Learn advanced AI concepts  
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/rudraveer-singh-0509281b9/
